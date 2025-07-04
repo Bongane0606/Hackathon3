@@ -38,7 +38,7 @@ A smart loyalty program designed to help barbershops and salons retain customers
 
 ## Getting Started 🏁
 
-1. **Live Demo**: [Visit Clippr](#) (coming soon)
+1. **Live Demo**:Visit Clippr https://bongane0606.github.io/Hackathon3/
 2. You can access the recording on youtube for better understanding https://www.youtube.com/watch?v=j2N5E4hh3VI
 
 Why Clippr? 💡
